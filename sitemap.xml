@@ -14,4 +14,26 @@
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
+   <url>
+   <loc>https://www.gopeto.tk/en</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="bg"
+      href="https://www.gopeto.tk/bg" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gopeto.tk/en" />
+ </url>
+ <url>
+   <loc>https://www.gopeto.tk/bg</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="bg"
+      href="https://www.gopeto.tk/bg" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gopeto.tk/en" />
+ </url>
 </urlset>
