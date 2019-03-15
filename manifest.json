@@ -1,0 +1,26 @@
+/*
+ bestjobs.github.io
+ Copyright © 2019 bestjobs. All rights reserved!
+*/
+
+{
+  "short_name": "gopeto",
+  "name": "gopeto.tk",
+  "icons": [
+    {
+      "src": "https://github.githubassets.com/favicon.ico",
+      "type": "image/ico",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://github.com/fluidicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#9EB3FA",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#317EFB"
+}
